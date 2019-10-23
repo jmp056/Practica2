@@ -1,0 +1,25 @@
+.Centralizar{
+    margin: 0 auto;
+    width: 900px;
+}
+
+.Encabezado{
+    height: 150px;
+}
+
+#LogoPrincipal{
+    width: 900px;
+    height: 150px;
+    display: block;
+    position: relative;		
+}
+
+.Nombre{
+    background-color: rgba(248, 79, 79, 0.8);
+    display: block;
+    position: absolute;
+    bottom: -16px;
+    left: 0;
+    padding: 5px;
+    width: 100%;
+  }
