@@ -89,18 +89,25 @@ footer{
 .Elemento{
     background-color: blue;
     margin: 5px;
-    height: 146px;
     width: 485px;
+    height: 146px;
 }
 
 .ImagenElemento{
-
+    margin: 5px;
+    width: 100px;
+    height: 135;
+    float: left;
 }
 
 .TituloElemento{
-
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0px;
 }
 
 .TextoElemento{
-
+    margin: 5px;
+    font-size: 15px;
 }
