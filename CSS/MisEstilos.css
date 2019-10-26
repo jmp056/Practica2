@@ -78,3 +78,29 @@ footer{
     text-align: right;
     height: 20px;
 }
+
+.Titulo{
+    text-align: center;
+    margin: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Elemento{
+    background-color: blue;
+    margin: 5px;
+    height: 146px;
+    width: 485px;
+}
+
+.ImagenElemento{
+
+}
+
+.TituloElemento{
+
+}
+
+.TextoElemento{
+
+}
