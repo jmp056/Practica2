@@ -1,22 +1,26 @@
+body{
+    background-color: rgb(0, 132, 255);
+}
+
 .Centralizar{
     margin: 0 auto;
     width: 900px;
 }
 
 .Encabezado{
-    height: 170px;
+    height: 250px;
 }
 
 #LogoPrincipal{
     width: 900px;
-    height: 170px;
+    height: 250px;
     display: block;
     position: relative;
     box-shadow: 10px 10px 10px black;
 }
 
 .Menu{
-    background-color: rgb(76, 0, 255);
+    background-color: rgb(0, 162, 255);
     height: 40px;
 }
 
@@ -34,7 +38,7 @@ ul{
 }
 
 a{
-    color: white;
+    color: black;
     font-weight: bold;
     text-decoration: none;
 }
@@ -43,7 +47,7 @@ a{
     margin: 5px 0px;
     width: 200px;
     height: 515;
-    background-color: rgb(76, 0, 255);
+    background-color: rgb(0, 162, 255);
     float: left;
 }
 
@@ -51,7 +55,7 @@ a{
     margin: 5px 0px;
     width: 200px;
     height: 515;
-    background-color: rgb(76, 0, 255);
+    background-color: rgb(0, 162, 255);
     float: right;
 }
 
@@ -64,7 +68,7 @@ a{
 #CentroPrincipal{
     margin: 5px 2px;
     float: right; 
-    background-color: aqua; 
+    background-color: rgb(0, 162, 255); 
     width: 495px; 
     height: 515px;
 }
@@ -87,7 +91,7 @@ footer{
 }
 
 .Elemento{
-    background-color: blue;
+    background-color: rgb(0, 162, 255);
     margin: 5px;
     width: 485px;
     height: 146px;
@@ -110,4 +114,12 @@ footer{
 .TextoElemento{
     margin: 5px;
     font-size: 15px;
+}
+
+div img{
+    border-radius: 20px;
+}
+
+div div{
+    border-radius: 20px;
 }
